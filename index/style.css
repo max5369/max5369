@@ -1,0 +1,33 @@
+header {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+p {
+    color: crimson;
+    border: 6px double black
+}
+
+p1 {
+    color: rgb(23, 185, 234);
+}
+
+body {
+    background-color: purple;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+ {
+    color: white;
+    font-size: 20px;
+}
